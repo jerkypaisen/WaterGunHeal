@@ -1,5 +1,7 @@
 # WaterGunHeal
 Water Gun Heal plugin for Rust
+![image](https://github.com/user-attachments/assets/a1af9195-d304-485b-82a9-85bd6e2fade0)
+
 
 
 ## Permissions
